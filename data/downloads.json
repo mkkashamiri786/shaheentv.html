@@ -1,0 +1,45 @@
+{
+  "links": [
+    {
+      "title": "Direct download",
+      "description": "APK file, fastest option",
+      "badge": "Recommended",
+      "icon": "https://i.postimg.cc/yxdkC5W4/20221230-082952.png",
+      "url": "https://github.com/mkkashamiri786/shaheentv.html/raw/refs/heads/main/AI-Toolkit_2.0.apk"
+    },
+    {
+      "title": "MediaFire",
+      "description": "Backup link if the others are busy",
+      "badge": "Backup",
+      "icon": "https://i.postimg.cc/HnhjY27J/20221230-082929.png",
+      "url": "https://www.mediafire.com/file/kjqfjqc5886hg88/AI_Toolkit_2.0.apk/file"
+    }
+  ],
+  "info": {
+    "title": "App information",
+    "items": [
+      {
+        "label": "Version",
+        "value": "2.0"
+      },
+      {
+        "label": "Released",
+        "value": "11/10/2025"
+      },
+      {
+        "label": "Size",
+        "value": "19.6 MB"
+      },
+      {
+        "label": "Works on",
+        "value": "Android 4.4+"
+      },
+      {
+        "label": "Status",
+        "value": "Latest version",
+        "status": true
+      }
+    ],
+    "note": "Shaheen TV is installed from an APK file, not Google Play. When Android asks, allow installs from your browser or file manager."
+  }
+}
