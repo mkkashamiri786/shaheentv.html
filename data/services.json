@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "title": "Mobile apps",
+      "description": "Android and iOS apps with clean, modern interfaces, connected to your APIs and ready for release.",
+      "tags": [
+        "Native",
+        "Cross-platform",
+        "API integration"
+      ]
+    },
+    {
+      "title": "Streaming platforms",
+      "description": "Secure live and on-demand streaming for TV channels, movies and events, on any device.",
+      "tags": [
+        "Live streaming",
+        "Content management",
+        "Multi-device"
+      ]
+    },
+    {
+      "title": "Websites",
+      "description": "Fast, responsive websites and online stores that are easy to find on search.",
+      "tags": [
+        "Frontend and backend",
+        "E-commerce",
+        "SEO"
+      ]
+    }
+  ]
+}
