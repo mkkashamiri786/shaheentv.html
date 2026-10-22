@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Shaheen TV: Pakistani live TV, news, dramas and sports on Android.">
+  <title>Shaheen TV Developers - Pakistan's Live &amp; Free TV App</title>
+  <link rel="icon" href="https://i.postimg.cc/VLqnPCkT/2719095-splash.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script>document.documentElement.classList.add('js');</script>
+</head>
+<body>
+  <div class="progress" id="prog"></div>
+  <header id="hd">
+    <div class="wrap bar">
+      <a class="brand" href="#home"><img id="brand-logo" src="https://i.postimg.cc/VLqnPCkT/2719095-splash.png" alt=""> <span id="brand-name">Shaheen TV</span></a>
+      <nav id="main-nav" aria-label="Main navigation"></nav>
+      <a class="btn" href="#download">Get the app</a>
+    </div>
+  </header>
+  <main id="home">
+    <section class="hero">
+      <i class="bubble b1"></i><i class="bubble b2"></i><i class="bubble b3"></i><i class="bubble b4"></i>
+      <div class="wrap hero-grid">
+        <div class="reveal">
+          <div class="live"><i></i><span id="live-label">Live now, 24/7</span></div>
+          <h1 id="hero-title">Pakistani TV, live and free on your phone.</h1>
+          <p class="lead" id="hero-description">News, dramas and sports from Pakistan in one Android app. No sign-up, no subscription.</p>
+          <div class="cta" id="hero-buttons"></div>
+          <div class="facts" id="hero-facts"></div>
+        </div>
+        <div class="phones reveal">
+          <div class="track" id="track"></div>
+          <div class="carousel-nav"><button class="ar" id="prev" aria-label="Previous screenshot">‹</button><div id="dots"></div><button class="ar" id="next" aria-label="Next screenshot">›</button></div>
+        </div>
+      </div>
+    </section>
+    <div class="ticker" aria-hidden="true"><div id="ticker-content"></div></div>
+    <section id="download">
+      <div class="wrap">
+        <div class="head r"><h2 id="download-title">Download Shaheen TV</h2><p id="download-description">Pick any source below. All three give you the same version 2.0 file.</p></div>
+        <div class="dl"><div class="sources" id="download-sources"></div><aside class="r spec" id="app-info"></aside></div>
+      </div>
+    </section>
+    <section class="features" id="features">
+      <div class="wrap"><div class="head r"><h2 id="features-title">Everything in one app</h2><p id="features-description">Watch, relax and use handy tools without switching apps.</p></div><div class="fgrid" id="feature-list"></div></div>
+    </section>
+    <section id="services">
+      <div class="wrap"><div class="head r"><h2 id="services-title">Need an app built?</h2><p id="services-description">The team behind Shaheen TV also builds for clients.</p></div><div class="rows" id="service-list"></div></div>
+    </section>
+    <section class="join" id="contact"><div class="wrap r"><h2 id="community-title">Get updates and support on WhatsApp</h2><p id="community-description">New channels, app updates and help from other viewers, all in one channel.</p><a class="btn wa" id="community-link" href="https://whatsapp.com/channel/0029VaC5Nk40VycCVuNq362Q" target="_blank" rel="noopener">Join the WhatsApp channel</a></div></section>
+  </main>
+  <footer><div class="wrap footer-wrap"><span id="copyright"></span><nav id="footer-nav" aria-label="Footer navigation"></nav></div></footer>
+  <a class="top" id="top" href="#home" aria-label="Back to top">↑</a>
+  <script src="js/content.js" defer></script>
+  <script src="js/main.js" defer></script>
+  <script src="js/carousel.js" defer></script>
+  <script src="js/download.js" defer></script>
+</body>
+</html>
