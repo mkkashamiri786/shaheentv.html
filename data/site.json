@@ -1,0 +1,68 @@
+{
+  "pageTitle": "Shaheen TV Developers - Pakistan's Live & Free TV App",
+  "metaDescription": "Shaheen TV: Pakistani live TV, news, dramas and sports on Android.",
+  "logo": "https://i.postimg.cc/VLqnPCkT/2719095-splash.png",
+  "brandName": "Shaheen TV",
+  "liveLabel": "Live now, 24/7",
+  "hero": {
+    "title": "Pakistani TV, live and free on your phone.",
+    "description": "News, dramas and sports from Pakistan in one Android app. No sign-up, no subscription.",
+    "buttons": [
+      {
+        "label": "Download version 2.0",
+        "url": "#download"
+      },
+      {
+        "label": "See what's inside",
+        "url": "#features"
+      }
+    ],
+    "facts": [
+      {
+        "value": "50+",
+        "numericValue": 50,
+        "suffix": "+",
+        "label": "Live channels"
+      },
+      {
+        "value": "100K+",
+        "numericValue": 100,
+        "suffix": "K+",
+        "label": "Active users"
+      },
+      {
+        "value": "19.6 MB",
+        "numericValue": 19.6,
+        "suffix": " MB",
+        "label": "App size"
+      }
+    ]
+  },
+  "ticker": [
+    "Live News",
+    "Pakistani Dramas",
+    "Sports",
+    "Entertainment",
+    "AI Toolkit",
+    "Free Forever"
+  ],
+  "download": {
+    "title": "Download Shaheen TV",
+    "description": "Pick any source below. All three give you the same version 2.0 file."
+  },
+  "features": {
+    "title": "Everything in one app",
+    "description": "Watch, relax and use handy tools without switching apps."
+  },
+  "services": {
+    "title": "Need an app built?",
+    "description": "The team behind Shaheen TV also builds for clients."
+  },
+  "community": {
+    "title": "Get updates and support on WhatsApp",
+    "description": "New channels, app updates and help from other viewers, all in one channel.",
+    "url": "https://whatsapp.com/channel/0029VaC5Nk40VycCVuNq362Q",
+    "buttonText": "Join the WhatsApp channel"
+  },
+  "copyright": "© 2025-26 Shaheen TV Developers. All rights reserved."
+}
